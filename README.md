@@ -63,10 +63,6 @@ Querying with Gemini or Groq
 
 Summarization and similarity search
 
-## ✨ Author
-
-Built with ❤️ by Hamza
-
 
 
 ---
